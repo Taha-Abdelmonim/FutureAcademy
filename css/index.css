@@ -127,7 +127,7 @@ nav a:hover::after, nav a.active-link::after {
 }
 
 .zilal-alquran {
-  background: url("../../images/home/section-1/bg-home.png");
+  background: url("../images/home/section-1/bg-home.png");
   position: relative;
 }
 .zilal-alquran::after {
@@ -137,7 +137,7 @@ nav a:hover::after, nav a.active-link::after {
   height: 100%;
   bottom: 0;
   left: 0;
-  background: url("../../images/home/section-1/img-2.png") no-repeat;
+  background: url("../images/home/section-1/img-2.png") no-repeat;
   background-size: 100% 100%;
   z-index: -3;
 }
@@ -330,17 +330,17 @@ nav a:hover::after, nav a.active-link::after {
 }
 
 footer {
-  background: url("../../images/footer/bg-footer.png") no-repeat;
+  background: url("../images/footer/bg-footer.png") no-repeat;
   background-size: 100% 100%;
 }
 
 body.blog .section-1 {
-  background: url("../../images/blog/section-1/image-1.png") no-repeat;
+  background: url("../images/blog/section-1/image-1.png") no-repeat;
   background-size: 100% 100%;
 }
 
 body.tafser-al-quran .section-1 {
-  background: url("../../images/tafser-al-quran/image-1.png") no-repeat;
+  background: url("../images/tafser-al-quran/image-1.png") no-repeat;
   background-size: 100% 100%;
 }
 

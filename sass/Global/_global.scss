@@ -90,7 +90,7 @@ nav {
 // end nav
 // start zilal al-quran home
 .zilal-alquran {
-  background: url("../../images/home/section-1/bg-home.png");
+  background: url("../images/home/section-1/bg-home.png");
   position: relative;
   // height: calc(100vh - 165px);
   &::after {
@@ -100,7 +100,7 @@ nav {
     height: 100%;
     bottom: 0;
     left: 0;
-    background: url("../../images/home/section-1/img-2.png") no-repeat;
+    background: url("../images/home/section-1/img-2.png") no-repeat;
     background-size: 100% 100%;
     z-index: -3;
   }
@@ -258,7 +258,7 @@ nav {
 // end our blog
 // start footer
 footer {
-  background: url("../../images/footer/bg-footer.png") no-repeat;
+  background: url("../images/footer/bg-footer.png") no-repeat;
   background-size: 100% 100%;
 }
 // end footer
@@ -266,7 +266,7 @@ footer {
 // =========== Start Blog ===========
 body.blog {
   .section-1 {
-    background: url("../../images/blog/section-1/image-1.png") no-repeat;
+    background: url("../images/blog/section-1/image-1.png") no-repeat;
     background-size: 100% 100%;
   }
 }
@@ -274,7 +274,7 @@ body.blog {
 // =========== Start tafser-al-quran ===========
 body.tafser-al-quran {
   .section-1 {
-    background: url("../../images/tafser-al-quran/image-1.png") no-repeat;
+    background: url("../images/tafser-al-quran/image-1.png") no-repeat;
     background-size: 100% 100%;
   }
 }
